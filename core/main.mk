@@ -46,6 +46,7 @@ $(warning *  Android can only be built by versions 3.81 and 3.82.)
 $(warning *  see http://source.android.com/source/download.html)
 $(warning ********************************************************************************)
 endif
+endif
 
 TOP := .
 TOPDIR :=
